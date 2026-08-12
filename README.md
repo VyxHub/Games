@@ -1,2 +1,1 @@
-# SPTS-Legends
-Script For SPTS:L
+# Sources for different games
